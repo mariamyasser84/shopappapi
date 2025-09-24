@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Running Shoes", "price": 450, "image": "https://images.unsplash.com/photo-1600180758895-42b1e3fd5c3b" },
+  { "id": 2, "name": "Leather Bag", "price": 650, "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f" },
+  { "id": 3, "name": "Smart Watch", "price": 1200, "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f" },
+  { "id": 4, "name": "Wireless Headphones", "price": 850, "image": "https://images.unsplash.com/photo-1580894894513-495a5d91da0d" },
+  { "id": 5, "name": "Laptop Backpack", "price": 400, "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7" },
+  { "id": 6, "name": "Sunglasses", "price": 250, "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e" },
+  { "id": 7, "name": "Casual T-Shirt", "price": 150, "image": "https://images.unsplash.com/photo-1520975918318-3f6b1c2ccf2b" },
+  { "id": 8, "name": "Jeans Pants", "price": 300, "image": "https://images.unsplash.com/photo-1583002073712-040fdbdf050f" },
+  { "id": 9, "name": "Sports Jacket", "price": 700, "image": "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0" },
+  { "id": 10, "name": "Formal Shoes", "price": 550, "image": "https://images.unsplash.com/photo-1582738411423-d4d1bd85d0f6" },
+  { "id": 11, "name": "Bluetooth Speaker", "price": 500, "image": "https://images.unsplash.com/photo-1512446816042-444d641268ec" },
+  { "id": 12, "name": "Smartphone", "price": 3500, "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9" },
+  { "id": 13, "name": "Gaming Mouse", "price": 320, "image": "https://images.unsplash.com/photo-1587202372775-98926b5a8e2a" },
+  { "id": 14, "name": "Mechanical Keyboard", "price": 900, "image": "https://images.unsplash.com/photo-1585079544511-5dd1a79cd0e6" },
+  { "id": 15, "name": "Office Chair", "price": 2200, "image": "https://images.unsplash.com/photo-1585559604903-7687f52a95a0" },
+  { "id": 16, "name": "Table Lamp", "price": 180, "image": "https://images.unsplash.com/photo-1567016533585-45d5b6d6ecbe" },
+  { "id": 17, "name": "Digital Camera", "price": 2800, "image": "https://images.unsplash.com/photo-1519183071298-a2962eadc10d" },
+  { "id": 18, "name": "Wrist Bracelet", "price": 120, "image": "https://images.unsplash.com/photo-1591375275268-57df5f13b61b" },
+  { "id": 19, "name": "Perfume", "price": 300, "image": "https://images.unsplash.com/photo-1611930022073-b7a4b62c1a1f" },
+  { "id": 20, "name": "Sports Cap", "price": 90, "image": "https://images.unsplash.com/photo-1584531905214-c7f1a65e5f7b" }
+]
